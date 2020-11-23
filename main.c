@@ -14,5 +14,6 @@ int main(void) {
     list_add_elem_at_back(&my_list, " beau gosse non?");
     
     //Ici print la taille de ta list
+    //Ici print la list
     return (0);
 }
